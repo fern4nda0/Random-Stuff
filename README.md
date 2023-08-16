@@ -2,8 +2,8 @@
 ## Run
 
 ```bash
-gcc  myFirstC.c  -o  myFirstC -lm
-./myFirstC
+gcc   derivative-of-sinx.c  -o   derivative-of-sinx -lm
+./derivative-of-sinx
 
 ```
 
@@ -14,4 +14,29 @@ Dy/Dx of sin(x) at x = 69.00 is 993390379722271614425690428040754630050365258267
 Dy/Dx of sin(x) at x = 69.00 is 0.99
 Value of cos(x) at x = 69.00 is 0.99
 Proof correct
+```
+
+
+```bash
+ ./price-chart.sh
+Date: 15-08-2023
+Bitcoin    :  $ 29206
+Ethereum Ξ :  $ 1827.86
+Dogecoin Ð :  $ 0.07105
+Litecoin Ł :  $ 79.22
+Solana SOL :  $ 23.77
+Rank Name            Symbol Price           Market Cap
+=====================================================================
+1    Bitcoin         btc    29206           568161754620
+2    Ethereum        eth    1828.13         219540876321
+3    Tether          usdt   0.998804        83082527343
+4    BNB             bnb    236.64          36409612430
+5    XRP             xrp    0.607885        32071888066
+6    USD Coin        usdc   1               26039599913
+7    Lido Staked Ether steth  1827.81         14860940185
+8    Dogecoin        doge   0.071056        9984009012
+9    Cardano         ada    0.281205        9850414178
+10   Solana          sol    23.78           9657494270
+
+
 ```
