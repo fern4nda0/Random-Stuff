@@ -1,5 +1,3 @@
-
-
 #!/bin/zsh
 
 echo "Date: $(date '+%d-%m-%Y') "
