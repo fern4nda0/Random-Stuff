@@ -1,8 +1,7 @@
 
 ### Lm tool 
 
-![mp4](./lm.mp4)
-
+https://github.com/niluk-256/Random-Stuff/blob/main/lm.mp4
 You need, 
 `fd` , `fzf` , `batcat`, `nvim` and `tmux`  installed 
 In .zshrc/bashrc 
