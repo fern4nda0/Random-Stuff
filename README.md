@@ -1,15 +1,18 @@
 
-### Lm 
+### lm 
 
 https://github.com/niluk-256/Random-Stuff/assets/67406138/71fd3620-0592-495c-8a73-c1008fdcbf29
 
 
 You need, 
-`fd` , `fzf` , `batcat`, `nvim` and `tmux`  installed 
-In .zshrc/bashrc 
+`fd` , `fzf` , `batcat`, `nvim` and `tmux`  installed ,
+
+</br>
+
+In  your .zshrc/bashrc 
 source ~/yourpath/lm.sh
 
-
+---
 
 ### Toggle blur 
 Adjust the path to windows terminal settings
@@ -17,6 +20,8 @@ Adjust the path to windows terminal settings
 In .zshrc or .bashrc add,
  alias toggle= '"yourpath/toogle_blur.sh"' 
 
+
+---
 
 
 ```bash
