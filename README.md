@@ -1,5 +1,22 @@
 
-## Run
+### Lm tool 
+
+![mp4](./lm.mp4)
+
+You need, 
+`fd` , `fzf` , `batcat`, `nvim` and `tmux`  installed 
+In .zshrc/bashrc 
+source ~/yourpath/lm.sh
+
+
+
+### Toggle blur 
+Adjust the path to windows terminal settings
+`chmod + x  toggle_blur.sh`
+In .zshrc or .bashrc add,
+ alias toggle= '"yourpath/toogle_blur.sh"' 
+
+
 
 ```bash
 gcc   derivative-of-sinx.c  -o   derivative-of-sinx -lm
