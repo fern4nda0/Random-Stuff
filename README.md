@@ -17,7 +17,7 @@ You need,
 ---
 
 *In debian distributions fd  is fdfind when we install it through apt so just change fd into fdfind in the code if necessary*
-*If you are using a debian distribution recommend to download neovim through brew because apt may install outdated neovim*
+*If you are using a debian distribution recommend to download neovim through brew because apt may install an outdated  neovim version*
 
 </br>
 
