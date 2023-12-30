@@ -7,6 +7,14 @@ https://github.com/niluk-256/Random-Stuff/assets/67406138/71fd3620-0592-495c-8a7
 You need, 
 `fd` , `fzf` , `batcat`, `nvim` and `tmux`  installed ,
 
+fd ->  https://github.com/sharkdp/fd?tab=readme-ov-file#installation
+fzf -> https://github.com/junegunn/fzf?tab=readme-ov-file#installation
+bat -> https://github.com/sharkdp/bat?tab=readme-ov-file#installation
+nvim -> https://github.com/neovim/neovim
+
+*In debian distributions fd  is fdfind when we install it through apt so just change fd into fdfind in the code if necessary*
+*If you are using a debian distribution recommend to download neovim through brew because apt may install outdated neovim*
+
 </br>
 
 In  your .zshrc/bashrc 
